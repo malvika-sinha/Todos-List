@@ -8,7 +8,7 @@ This is a simple and intuitive To-Do List application built using React.js. It a
 🔴Delete tasks as needed <br><br>
 
 ## 👉🏻 Features:
-🔴 Responsive Design: The app adjusts seamlessly across various screen sizes, providing an optimized experience on both mobile and desktop devices. <br>
+🔴 Responsive Design: The app adjusts seamlessly across various screen sizes, providing an optimized experience on laptop/desktop devices. <br>
 🔴 Animations: Enjoy a sleek interface with smooth animations for adding or deleting tasks. <br>
 🔴 Sorting Options: Sort your tasks alphabetically or by status, making it easier to organize and prioritize your work. <br><br>
 This project highlights the use of modern JavaScript (ES6+) and React hooks for efficient state management, ensuring clean and maintainable code. With its minimalistic design and user-friendly interface, this To-Do List application offers an enhanced task management experience.
