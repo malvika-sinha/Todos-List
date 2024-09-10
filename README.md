@@ -23,16 +23,16 @@ This project highlights the use of modern JavaScript (ES6+) and React hooks for 
 2. Navigate into the cloned repository: <br>
 ### `cd repository-name` <br>
 
-3.Install Dependencies:<br>
-Ensure you have Node.js installed on your system. It includes npm (Node Package Manager). <br>
+3. Install Dependencies:<br>
+- Ensure you have Node.js installed on your system. It includes npm (Node Package Manager). <br>
 ### `npm install` <br>
 
 4. Run the Development Server: <br>
-Start the development server with <br>
+- Start the development server with <br>
 ### `npm start` <br>
 This will usually open the application in a web browser at http://localhost:3000. <br><br>
 
-## SCREENSHOTS: <br>
+## SCREENSHOT: <br>
 <div align="center"> <img src="https://i.postimg.cc/NLqWtYRv/Screenshot-2024-09-11-032417.png" alt="Logo" width="800" height="400"> </div><br>
 
 
