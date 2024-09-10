@@ -31,7 +31,7 @@ This project highlights the use of modern JavaScript (ES6+) and React hooks for 
 This will usually open the application in a web browser at http://localhost:3000. <br><br>
 
 ## SCREENSHOT: <br>
-<div align="center"> <img src="https://i.postimg.cc/NLqWtYRv/Screenshot-2024-09-11-032417.png" alt="Logo" width="800" height="400"> </div><br>
-
+<div align="center"> <img src="https://i.postimg.cc/NLqWtYRv/Screenshot-2024-09-11-032417.png" alt="Logo" width="800" height="400"> </div><br><br>
+## Deployed Link : https://todos-list-pearl-three.vercel.app/
 
 
