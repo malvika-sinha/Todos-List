@@ -6,8 +6,6 @@ This is a simple and intuitive To-Do List application built using React.js. It a
 🔴Add new tasks <br>
 🔴Mark tasks as completed or pending <br>
 🔴Delete tasks as needed <br><br>
-The app is fully responsive, ensuring a smooth experience on both desktop and mobile devices. It uses local storage to save tasks, so your task list will persist even after refreshing the page. <br>
-<br>
 
 ## 👉🏻 Features:
 🔴 Responsive Design: The app adjusts seamlessly across various screen sizes, providing an optimized experience on both mobile and desktop devices. <br>
