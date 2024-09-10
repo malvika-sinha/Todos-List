@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Todos-List
 
 ## 👉🏻 Introduction
