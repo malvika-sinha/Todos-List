@@ -6,6 +6,7 @@ This is a simple and intuitive To-Do List application built using React.js. It a
 🔴Add new tasks <br>
 🔴Mark tasks as completed or pending <br>
 🔴Delete tasks as needed <br><br>
+- Deployed Link : https://todos-list-pearl-three.vercel.app/ <br><br>
 
 ## 👉🏻 Features:
 🔴 Responsive Design: The app adjusts seamlessly across various screen sizes, providing an optimized experience on laptop/desktop devices. <br>
@@ -32,6 +33,5 @@ This will usually open the application in a web browser at http://localhost:3000
 
 ## SCREENSHOT: <br>
 <div align="center"> <img src="https://i.postimg.cc/NLqWtYRv/Screenshot-2024-09-11-032417.png" alt="Logo" width="800" height="400"> </div><br><br>
-## Deployed Link : https://todos-list-pearl-three.vercel.app/
 
 
